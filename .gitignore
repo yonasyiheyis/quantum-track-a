@@ -1,0 +1,7 @@
+.idea/
+*.iml
+
+__pycache__/
+*.py[cod]
+
+rust/qc_core/target/
